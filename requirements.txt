@@ -1,0 +1,8 @@
+testresources
+jupyterlab
+numpy~=1.19.2
+tensorflow
+pandas
+matplotlib
+minisom
+sklearn
